@@ -1,3 +1,15 @@
+* {
+    background-color: peachpuff;
+}
+
+button {
+    margin: 30px;
+    height: 40px;
+    width: 80px;
+    background-color: red;
+    border-radius: 4px;
+}
+
 #container {
     display: flex;
     flex-direction: row;
@@ -5,3 +17,4 @@
     height: 256px;
     width: 256px;
 }
+
